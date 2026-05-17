@@ -1,0 +1,7 @@
+/* App container - no styling needed */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* All styling is in LandingPage.css */
